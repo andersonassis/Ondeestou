@@ -47,8 +47,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-
-
     }//fim do oncreate
 
     private void pedirPermissoes() {
